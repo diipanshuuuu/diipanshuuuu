@@ -62,9 +62,9 @@ class Dipanshu:
 
 <a href="https://discord.com/users/1287480096806011007">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/1287480096806011007?theme=dark&bg=0d1117&borderRadius=8px&hideDiscrim=true&hideBadges=true&idleMessage=idle%20%E2%80%94%20probably%20exploring" />
-    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/1287480096806011007?theme=light&bg=ffffff&borderRadius=8px&hideDiscrim=true&hideBadges=true&idleMessage=idle%20%E2%80%94%20probably%20exploring" />
-    <img src="https://lanyard.cnrad.dev/api/1287480096806011007?theme=dark&bg=0d1117&borderRadius=8px&hideDiscrim=true&hideBadges=true&idleMessage=idle%20%E2%80%94%20probably%20exploring" alt="what i'm up to on discord right now" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/1287480096806011007?theme=dark&bg=0d1117&borderRadius=8px&hideDiscrim=true&hideBadges=true&idleMessage=quiet%20for%20now%20%C2%B7%20probably%20building%20something" />
+    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/1287480096806011007?theme=light&bg=ffffff&borderRadius=8px&hideDiscrim=true&hideBadges=true&idleMessage=quiet%20for%20now%20%C2%B7%20probably%20building%20something" />
+    <img src="https://lanyard.cnrad.dev/api/1287480096806011007?theme=dark&bg=0d1117&borderRadius=8px&hideDiscrim=true&hideBadges=true&idleMessage=quiet%20for%20now%20%C2%B7%20probably%20building%20something" alt="my discord status and what i'm doing right now" />
   </picture>
 </a>
 
