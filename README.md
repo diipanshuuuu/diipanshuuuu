@@ -38,7 +38,7 @@ class Dipanshu:
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h4><a href="https://github.com/diipanshuuuu/Kavach">Kavach</a> <sub>· built at hacktoberfest hack day pune 2026</sub></h4>
+      <p><a href="https://github.com/diipanshuuuu/Kavach"><b>Kavach</b></a> <sub>· built at hacktoberfest hack day pune 2026</sub></p>
       <p>A browser extension that spots Indian personal data (Aadhaar, PAN, bank details, names, addresses) in anything you paste or upload, and masks it before it reaches ChatGPT, Gemini or Claude. Nothing leaves your laptop, and it also works on images, scanned PDFs and slides in English, Hindi and Marathi.</p>
       <p><sub><b>97.3% recall</b> · <b>100% precision</b> · ~60 ms per document</sub></p>
       <sub><code>python</code> <code>fastapi</code> <code>transformers</code> <code>tesseract</code> <code>typescript</code></sub>
@@ -46,12 +46,12 @@ class Dipanshu:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/diipanshuuuu/NST-SDC-site">NST SDC site</a> <sub>· <a href="https://nst-sdc-site-ten.vercel.app">live ↗</a></sub></h4>
+      <p><a href="https://github.com/diipanshuuuu/NST-SDC-site"><b>NST SDC site</b></a> <sub>· <a href="https://nst-sdc-site-ten.vercel.app">live ↗</a></sub></p>
       <p>An unofficial redesign of my college dev club's site, built from scratch, with an in-browser terminal, a <kbd>⌘K</kbd> palette and a showcase of real student repos. No frameworks.</p>
       <sub><code>html</code> <code>css</code> <code>javascript</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/htmnsrc/SysCleanX">SysCleanX</a> <sub>· where it started</sub></h4>
+      <p><a href="https://github.com/htmnsrc/SysCleanX"><b>SysCleanX</b></a> <sub>· where it started</sub></p>
       <p>A minimal Windows cleaner and uninstaller. It clears temp files, caches and the recycle bin from one lightweight window.</p>
       <sub><code>python</code> <code>customtkinter</code></sub>
     </td>
