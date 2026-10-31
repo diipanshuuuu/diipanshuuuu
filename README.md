@@ -28,9 +28,9 @@ class Dipanshu:
 ### `$ ls ~/tools`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,c,cpp,rust,bash,html,css,git,github,linux,vim,vscode,firebase,vercel&perline=15&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,c,cpp,rust,bash,html,css,git,github,linux,vim,vscode,firebase,vercel&perline=15&theme=light" />
-  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,rust,bash,html,css,git,github,linux,vim,vscode,firebase,vercel&perline=15&theme=dark" alt="Python, JavaScript, C, C++, Rust, Bash, HTML, CSS, Git, GitHub, Linux, Vim, VS Code, Firebase, Vercel" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cc%2Ccpp%2Crust%2Cbash%2Chtml%2Ccss%2Cgit%2Cgithub%2Clinux%2Cvim%2Cvscode%2Cfirebase%2Cvercel&perline=15&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cc%2Ccpp%2Crust%2Cbash%2Chtml%2Ccss%2Cgit%2Cgithub%2Clinux%2Cvim%2Cvscode%2Cfirebase%2Cvercel&perline=15&theme=light" />
+  <img src="https://skillicons.dev/icons?i=py%2Cjs%2Cc%2Ccpp%2Crust%2Cbash%2Chtml%2Ccss%2Cgit%2Cgithub%2Clinux%2Cvim%2Cvscode%2Cfirebase%2Cvercel&perline=15&theme=dark" alt="Python, JavaScript, C, C++, Rust, Bash, HTML, CSS, Git, GitHub, Linux, Vim, VS Code, Firebase, Vercel" />
 </picture>
 
 ### `$ ls ~/projects`
