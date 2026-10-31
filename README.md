@@ -35,17 +35,13 @@ class Dipanshu:
 
 ### `$ ls ~/projects`
 
-- **[kavach](https://github.com/diipanshuuuu/Kavach)** &nbsp;`python · typescript`<br />
-  masks your personal data before it reaches ai chatbots
-
-- **[syscleanx](https://github.com/htmnsrc/SysCleanX)** &nbsp;`rust · v2.0`<br />
-  a tiny, safety-first windows cleaner
-
-- **[nst sdc site](https://github.com/diipanshuuuu/NST-SDC-site)** &nbsp;`html · css · js` · [live](https://nst-sdc-site-ten.vercel.app)<br />
-  an unofficial redesign of my college dev club's site
-
-- **[portfolio](https://github.com/diipanshuuuu/portfolio)** &nbsp;`html · css · js` · [live](https://dipannshuuuu.web.app)<br />
-  a quiet, clean one-page site 
+<p>
+<a href="https://github.com/diipanshuuuu/Kavach"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kavach-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-kavach-light.svg" /><img width="49%" src="assets/project-kavach-dark.svg" alt="kavach: masks your personal data before it reaches chatgpt, gemini or claude" /></picture></a>
+<a href="https://github.com/htmnsrc/SysCleanX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-syscleanx-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-syscleanx-light.svg" /><img width="49%" src="assets/project-syscleanx-dark.svg" alt="syscleanx: a tiny, safety-first pc cleaner for windows, written in rust" /></picture></a>
+<br />
+<a href="https://nst-sdc-site-ten.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nst-sdc-site-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-nst-sdc-site-light.svg" /><img width="49%" src="assets/project-nst-sdc-site-dark.svg" alt="nst sdc site: an unofficial redesign of my college dev club's site, live at nst-sdc-site-ten.vercel.app" /></picture></a>
+<a href="https://dipannshuuuu.web.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-portfolio-light.svg" /><img width="49%" src="assets/project-portfolio-dark.svg" alt="portfolio: a quiet, clean one-page site that reads like field notes, live at dipannshuuuu.web.app" /></picture></a>
+</p>
 
 ### `$ now`
 

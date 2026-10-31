@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="150" viewBox="0 0 424 150" role="img" aria-label="portfolio: a quiet, clean one-page site that reads like field notes">
+<style>
+  text { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre; }
+</style>
+<rect x="0.5" y="0.5" width="423" height="149" rx="10" fill="#f6f8fa" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="17" font-weight="700"><tspan fill="#59636e">~/</tspan><tspan fill="#15803d">portfolio</tspan></text>
+<text x="400" y="37" font-size="12" fill="#59636e" text-anchor="end">html · css · js</text>
+<text x="24" y="76" font-size="14" fill="#1f2328">a quiet, clean one-page site that</text>
+<text x="24" y="98" font-size="14" fill="#1f2328">reads like field notes</text>
+<circle cx="28" cy="124" r="3.5" fill="#15803d"/>
+<text x="40" y="128" font-size="12" fill="#59636e">dipannshuuuu.web.app ↗</text>
+</svg>
