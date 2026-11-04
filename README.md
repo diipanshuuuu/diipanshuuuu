@@ -18,7 +18,7 @@ class Dipanshu:
 
     home     = "Ayodhya, India"
     studying = "B.Tech CSE (AI & ML) @ Newton School of Technology"
-    shipped  = ["Kavach", "SysCleanX 2.0", "NST SDC site", "portfolio"]
+    shipped  = ["Kavach", "SysCleanX 2.0", "NST SDC site", "SysCleanX website"]
     open_to  = ["internships", "freelance", "open-source collabs"]
 
     def now(self):
@@ -40,7 +40,7 @@ class Dipanshu:
 <a href="https://github.com/htmnsrc/SysCleanX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-syscleanx-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-syscleanx-light.svg" /><img width="49%" src="assets/project-syscleanx-dark.svg" alt="syscleanx: a tiny, safety-first pc cleaner for windows, written in rust" /></picture></a>
 <br />
 <a href="https://nst-sdc-site-ten.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nst-sdc-site-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-nst-sdc-site-light.svg" /><img width="49%" src="assets/project-nst-sdc-site-dark.svg" alt="nst sdc site: an unofficial redesign of my college dev club's site, live at nst-sdc-site-ten.vercel.app" /></picture></a>
-<a href="https://dipannshuuuu.web.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-portfolio-light.svg" /><img width="49%" src="assets/project-portfolio-dark.svg" alt="portfolio: a quiet, clean one-page site that reads like field notes, live at dipannshuuuu.web.app" /></picture></a>
+<a href="https://github.com/htmnsrc/SysCleanX-website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-syscleanx-website-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-syscleanx-website-light.svg" /><img width="49%" src="assets/project-syscleanx-website-dark.svg" alt="syscleanx-website: the home of syscleanx on the web, live at syscleanx.web.app" /></picture></a>
 </p>
 
 ### `$ now`
